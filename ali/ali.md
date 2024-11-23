@@ -1,0 +1,2 @@
+Hey, I’m Ali Siddiqui.
+I’m currently a Computer Science student at the University of Colorado Boulder with a solid background in Python, C++, Java, and JavaScript. I’m really into cybersecurity and enjoy diving deep into the challenges that come with protecting digital systems. When I’m not studying or working on coding projects, you can usually find me hitting the slopes—I’m a big fan of skiing and love spending time on the mountains in Colorado!
